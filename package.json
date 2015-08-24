@@ -1,0 +1,33 @@
+{
+  "name": "array-same",
+  "version": "1.0.0",
+  "description": "Whether two arrays have the same members",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfcreative/array-same"
+  },
+  "keywords": [
+    "same-members",
+    "same",
+    "members",
+    "array",
+    "diff"
+  ],
+  "author": "Deema Yvanow <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/array-same/issues"
+  },
+  "homepage": "https://github.com/dfcreative/array-same",
+  "dependencies": {
+  }
+}
