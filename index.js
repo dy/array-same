@@ -1,7 +1,9 @@
 module.exports = function (source) {
+	if (!source || source.length === undefined) return false;
+
 	var rest = [].slice.call(arguments, 1);
 	return rest.every(function (b) {
-		if (source.length !== b.length) return false;
+		if (!b || source.length !== b.length) return false;
 
 		var a = [].slice.call(source);
 
