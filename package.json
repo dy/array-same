@@ -1,6 +1,6 @@
 {
   "name": "array-same",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Whether two arrays have the same members",
   "main": "index.js",
   "scripts": {
