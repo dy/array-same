@@ -1,6 +1,6 @@
 {
   "name": "array-same",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Whether two arrays have the same members",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,5 @@
     "url": "https://github.com/dfcreative/array-same/issues"
   },
   "homepage": "https://github.com/dfcreative/array-same",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
