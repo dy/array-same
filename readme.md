@@ -6,3 +6,5 @@ import same as 'array-same';
 same([1,2], [2,1]); //true
 same([1,2,3], [1,2]); //false
 ```
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dfcreative/array-same.svg)](https://greenkeeper.io/)
